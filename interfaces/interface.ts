@@ -3,7 +3,7 @@
  * @version 1.0
  * @author Víctor Cuervo - http://lineadecodigo.com
  * @date   30/agosto/2017
- * @url  http://lineadecodigo.com/definir-interface-typescript/
+ * @url  http://lineadecodigo.com/typescript/definir-interface-typescript/
  * @description Definir un interface básico en TypeScript
  */
 
